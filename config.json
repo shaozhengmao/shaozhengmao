@@ -6,5 +6,11 @@
     "avatarUrl":"http://obakainu.com/avatar.jpg",
     "faviconUrl":"http://obakainu.com/favicon.ico",
     "singlePage":[],
+    "onePageListNum":15,
+    "startSite":"12/03/2023",
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "nightTheme":"dark_colorblind",
     "GMEEK_VERSION":"last"
 }
