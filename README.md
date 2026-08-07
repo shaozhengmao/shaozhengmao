@@ -17,6 +17,8 @@ Day job engineer. Nights and weekends for things I actually care about. I build 
 
 🍜 [**where-to-eat**](https://github.com/shaozhengmao/where-to-eat) (★7) — 基于所有人的位置和偏好，自动计算最优聚餐地点并推荐周边餐厅。Finds the optimal meeting point for a group and recommends nearby restaurants.
 
+💰 [**get-my-fucking-money**](https://github.com/shaozhengmao/get-my-fucking-money) (★16) — 裁员应对卡：被裁员时帮你理清协议、金额与事实，7 个问题生成今天能用的应对卡（纯静态 Web + Codex skill）。Layoff survival card: clarifies your severance agreement, amounts, and facts, then generates a practical action card for today — pure static web + Codex skill.
+
 ---
 
 ## 🎨 桌面美化 & 玩具 / Desktop Fun
